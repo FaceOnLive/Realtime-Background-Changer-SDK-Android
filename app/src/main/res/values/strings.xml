@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TTVSegmentDemo</string>
+
+    <string name="check_license_failed">Authorization failed.</string>
+    <string name="check_license_successful">Authorization is successful.</string>
+    <string name="fetch_license_failed">Failed to obtain the authorization certificate. Error code: %d.</string>
+    <string name="fetch_license_successful">Obtain the authorization certificate successfully.</string>
+    <string name="license_null">The authorization certificate is null.</string>
+    <string name="sdk_init_failed">SDK initialization failed.</string>
+    <string name="sdk_init_successful">SDK initialization is successful.</string>
+    <string name="sdk_time">SDK processing time: %d milliseconds.</string>
+</resources>
