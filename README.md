@@ -5,6 +5,10 @@
 <a href="https://twitter.com/intent/tweet?text=Realtime,%20Accurate%20Background%20Changer,%20Portrait%20Segmentation,%20Portrait%20Matting,%20Background%20Removal%20for%20Android%0D%0D&url=https://github.com/FaceOnLive/Realtime-Background-Changer-SDK-Android%0D%0D&hashtags=computervision,deeplearning,backgroundchanger,portraitsegmentation,android,developers"><img src="http://randojs.com/images/tweetShield.svg" alt="Tweet" height="20"/></a>&emsp;<a href="https://t.me/faceonlive"><img src="https://badgen.net/badge/icon/telegram?icon=telegram&label" alt="Telegram" height="20"/></a>
 </p>
 
+## :muscle:  Partnership / Cooperation / Project Discussion
+&emsp;<a href="mailto:contact@faceonlive.com?subject=[GitHub]%20Background%20Changer%20SDK%20Android"><img src="https://img.shields.io/badge/mail-%23DD0031.svg?&style=flat&logo=gmail&logoColor=white"  height="64"/></a>
+</br>
+</br>
 
 ## :tada:  Try It Yourself
 <a href="https://play.google.com/store/apps/details?id=com.ttv.segmentdemo" target="_blank">
