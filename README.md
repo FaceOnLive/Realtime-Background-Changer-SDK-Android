@@ -11,7 +11,7 @@
 </br>
 
 ## :tada:  Try It Yourself
-<a href="https://play.google.com/store/apps/details?id=com.ttv.segmentdemo" target="_blank">
+<a href="https://play.google.com/store/apps/details?id=com.ttv.segdemo" target="_blank">
   <img alt="Get it on Google Play" src="https://goo.gl/cR2qQH" height="100"/>
 </a>
 </br>
