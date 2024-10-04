@@ -1,14 +1,22 @@
+<div align="center">
+  <a href="https://join.slack.com/t/faceonlive/shared_invite/zt-2drx19c5t-vQsR4TUGPD8oL7i7BXdKZA">Slack</a>
+    ·
+   <a href="https://www.faceonlive.com/">Website</a>
+    ·
+   <a href="https://portfolio.faceonlive.com">Portfolio</a>  
+    ·
+    <a href="https://www.huggingface.co/FaceOnLive">Hugging Face</a>
+    ·
+    <a href="https://getapi.faceonlive.com">Free APIs</a>
+    ·
+    <a href="https://github.com/FaceOnLive/OpenKYC">OpenKYC</a>  
+    ·
+    <a href="https://github.com/FaceOnLive/Mask-Face-Attendance-App-Flutter">Face Attendance</a>  
+    ·
+    <a href="mailto:contact@faceonlive.com">Contact</a>
+</div>
 <h1 align="center">Realtime Background Changer on Camera Stream</h1>
 <p align="center">Realtime, Accurate Background Changer, Portrait Segmentation, Portrait Matting, Background Removal SDK for Android</p>
-
-<p align="center">
-<a href="https://twitter.com/intent/tweet?text=Realtime,%20Accurate%20Background%20Changer,%20Portrait%20Segmentation,%20Portrait%20Matting,%20Background%20Removal%20for%20Android%0D%0D&url=https://github.com/FaceOnLive/Realtime-Background-Changer-SDK-Android%0D%0D&hashtags=computervision,deeplearning,backgroundchanger,portraitsegmentation,android,developers"><img src="http://randojs.com/images/tweetShield.svg" alt="Tweet" height="20"/></a>&emsp;<a href="https://t.me/faceonlive"><img src="https://badgen.net/badge/icon/telegram?icon=telegram&label" alt="Telegram" height="20"/></a>
-</p>
-
-## :muscle:  Partnership / Cooperation / Project Discussion
-&emsp;<a href="mailto:contact@faceonlive.com?subject=[GitHub]%20Background%20Changer%20SDK%20Android"><img src="https://img.shields.io/badge/mail-%23DD0031.svg?&style=flat&logo=gmail&logoColor=white"  height="64"/></a>
-</br>
-</br>
 
 ## :tada:  Try It Yourself
 <a href="https://play.google.com/store/apps/details?id=com.ttv.segdemo" target="_blank">
